@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">NmediaLesson1</string>
-    <string name="hellostring">Hello World!</string>
+    <string name="hellostring">Привет Мир!</string>
 
 </resources>
